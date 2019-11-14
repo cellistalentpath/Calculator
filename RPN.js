@@ -22,7 +22,7 @@ class RPN {
                 result = result * num1;
                 break;
               default:
-                return "Error " + array[i] + " is not a proper command";
+                return "Error: " + array[i] + " is not a proper command";
             }
           } else {
             if (result === null) {
@@ -43,5 +43,5 @@ class RPN {
 module.exports = RPN;
 
 // Works
-// let test1 = new RPN();
-// console.log(test1.rpn("1 2 + 7 - 2 *"));
+let test1 = new RPN();
+console.log(test1.rpn("1 2 + 7 - 2 6 9 6 *"));

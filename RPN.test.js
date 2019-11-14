@@ -27,5 +27,5 @@ test("check if no input returns 0", () => {
 
 test("check if wrong symbol spits back error message", () => {
   const subject = new RPN();
-  expect(subject.rpn("1 2 &")).toBe("Error & is not a proper command");
+  expect(subject.rpn("1 2 &")).toBe("Error: & is not a proper command");
 });
