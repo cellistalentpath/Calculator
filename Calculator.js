@@ -28,7 +28,3 @@ class Calculator {
 }
 
 module.exports = Calculator;
-
-// Works
-// let test = new Calculator(5);
-// console.log(test.add(3).equals());

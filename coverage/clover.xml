@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1573759523193" clover="3.2.0">
+  <project timestamp="1573759523194" name="All files">
+    <metrics statements="43" coveredstatements="43" conditionals="11" coveredconditionals="11" methods="9" coveredmethods="9" elements="63" coveredelements="63" complexity="0" loc="43" ncloc="43" packages="1" files="2" classes="2"/>
+    <file name="Calculator.js" path="C:\Users\CEllis\Documents\Calculator\Calculator.js">
+      <metrics statements="19" coveredstatements="19" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="7"/>
+      <line num="3" count="6" type="stmt"/>
+      <line num="4" count="6" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="8" count="6" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="12" count="6" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="16" count="6" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="20" count="6" type="stmt"/>
+      <line num="21" count="6" type="stmt"/>
+      <line num="23" count="6" type="stmt"/>
+      <line num="24" count="1" type="stmt"/>
+      <line num="25" count="1" type="stmt"/>
+      <line num="30" count="1" type="stmt"/>
+    </file>
+    <file name="RPN.js" path="C:\Users\CEllis\Documents\Calculator\RPN.js">
+      <metrics statements="24" coveredstatements="24" conditionals="11" coveredconditionals="11" methods="2" coveredmethods="2"/>
+      <line num="3" count="6" type="stmt"/>
+      <line num="4" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="5" count="5" type="stmt"/>
+      <line num="6" count="5" type="stmt"/>
+      <line num="7" count="5" type="stmt"/>
+      <line num="8" count="5" type="stmt"/>
+      <line num="9" count="15" type="stmt"/>
+      <line num="10" count="15" type="cond" truecount="2" falsecount="0"/>
+      <line num="11" count="5" type="cond" truecount="5" falsecount="0"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+      <line num="23" count="1" type="stmt"/>
+      <line num="25" count="1" type="stmt"/>
+      <line num="28" count="10" type="cond" truecount="2" falsecount="0"/>
+      <line num="29" count="5" type="stmt"/>
+      <line num="31" count="5" type="stmt"/>
+      <line num="35" count="4" type="stmt"/>
+      <line num="37" count="1" type="stmt"/>
+      <line num="43" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
